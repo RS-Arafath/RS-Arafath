@@ -1,8 +1,5 @@
 ## Hi there 👋
-# 💫 About Me:
 🔭 I’m currently working on improving my web development skills and building real-world projects.<br><br>👯 I’m looking to collaborate on beginner-friendly web projects and open-source contributions.<br><br>🤝 I’m looking for help with advanced JavaScript concepts and backend development.<br><br>🌱 I’m currently learning React, Node.js, and database management.<br><br>💬 Ask me about HTML, CSS, JavaScript basics, and frontend practice projects.<br><br>⚡ Fun fact: I started my journey with simple validation scripts and now I’m aiming to become a full-stack developer. 🚀
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/rsarafath.rsarafath/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/RS-Arafath-3) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Brave_Cup_8861/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact.arafath.bd@gmail.com) 
 
