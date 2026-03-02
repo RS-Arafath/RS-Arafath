@@ -1,5 +1,12 @@
-# 💫 About Me:
-🔭 I’m currently working on improving my web development skills and building real-world projects.<br><br>👯 I’m looking to collaborate on beginner-friendly web projects and open-source contributions.<br><br>🤝 I’m looking for help with advanced JavaScript concepts and backend development.<br><br>🌱 I’m currently learning React, Node.js, and database management.<br><br>💬 Ask me about HTML, CSS, JavaScript basics, and frontend practice projects.<br><br>⚡ Fun fact: I started my journey with simple validation scripts and now I’m aiming to become a full-stack developer. 🚀
+# Hi there! 👋 I'm Rs Arafath
+![Typing Effect](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&fontStyle=italic&pause=1000&color=36BCF7&size=24&width=500&lines=Aspiring+Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Web+Applications;Always+Learning+New+Tech)
+### 🚀 About Me
+- 🔭 **Working on:** Scalable web applications & real-world projects.
+- 🌱 **Learning:** React, Node.js & Database Management.
+- 👯 **Collaborations:** Beginner-friendly web & Open-source projects.
+- 🤝 **Need help with:** Advanced JS & Backend architecture.
+- 💬 **Ask me about:** HTML, CSS, JS & Frontend basics.
+- ⚡ **Fun fact:** Started with basic scripts, now aiming for Full-Stack! 🚀
 
 
 ## 🌐 Socials:
