@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Rs Arafath
+# Hi there! 👋 I'm [Rs Arafath]
 ![Typing Effect](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&fontStyle=italic&pause=1000&color=36BCF7&size=24&width=500&lines=Aspiring+Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Web+Applications;Always+Learning+New+Tech)
 ### 🚀 About Me
 - 🔭 **Working on:** Scalable web applications & real-world projects.
