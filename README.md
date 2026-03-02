@@ -45,7 +45,12 @@
 # 📈 Activity Graph
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RS-Arafath&theme=tokyo-night)](https://github.com/RS-Arafath)
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=RS-Arafath.RS-Arafath&style=flat-square&logo=github)
+<!--
+### visitor
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=RS-Arafath.RS-Arafath&style=flat-square&logo=github) -->
+
+### visitor
+![Profile Views](https://raw.githubusercontent.com/RS-Arafath/RS-Arafath/main/visitor_speedometer.gif)
 
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RS-Arafath&limit=5&theme=transparent&combine_all_yearly_contributions=true)
