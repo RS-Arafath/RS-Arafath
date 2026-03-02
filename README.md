@@ -37,26 +37,29 @@
 <img src="https://skillicons.dev/icons?i=figma,Canba" />
 </p>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RS-Arafath&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=RS-Arafath&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RS-Arafath&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 📈 Activity Graph
+## 👤 Profile Visitors
+<p align="left">
+  <img src="https://count.getloli.com/get/@RS-Arafath?theme=moebooru" alt="Visitor Count" />
+</p>
+
+## 📈 Activity Graph
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RS-Arafath&theme=tokyo-night)](https://github.com/RS-Arafath)
 
 <!--
 ### visitor
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=RS-Arafath.RS-Arafath&style=flat-square&logo=github) -->
 
-### visitor
-![Profile Views](https://raw.githubusercontent.com/RS-Arafath/RS-Arafath/main/visitor_speedometer.gif)
 
-# 🔝 Top Contributed Repo
+
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RS-Arafath&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=RS-Arafath&icon=2&color=0)](https://visitcount.itsvg.in)
+
 
 
 
