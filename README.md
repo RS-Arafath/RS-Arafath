@@ -2,15 +2,24 @@
 ![Typing Effect](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&fontStyle=italic&pause=1000&color=36BCF7&size=24&width=500&lines=Aspiring+Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Web+Applications;Always+Learning+New+Tech)
 
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/RS-Arafath/RS-Arafath/main/ezgif-3eb807a65841bd42.gif">
-
-### 🚀 About Me
-- 🔭 **Working on:** Scalable web applications & real-world projects.
-- 🌱 **Learning:** React, Node.js & Database Management.
-- 👯 **Collaborations:** Beginner-friendly web & Open-source projects.
-- 🤝 **Need help with:** Advanced JS & Backend architecture.
-- 💬 **Ask me about:** HTML, CSS, JS & Frontend basics.
-- ⚡ **Fun fact:** Started with basic scripts, now aiming for Full-Stack! 🚀
+<table border="0">
+  <tr>
+    <td>
+      <h3>🚀 About Me</h3>
+      <ul>
+        <li>🔭 <b>Working on:</b> Scalable web applications & real-world projects.</li>
+        <li>🌱 <b>Learning:</b> React, Node.js & Database Management.</li>
+        <li>👯 <b>Collaborations:</b> Beginner-friendly web & Open-source projects.</li>
+        <li>🤝 <b>Need help with:</b> Advanced JS & Backend architecture.</li>
+        <li>💬 <b>Ask me about:</b> HTML, CSS, JS & Frontend basics.</li>
+        <li>⚡ <b>Fun fact:</b> Started with basic scripts, now aiming for Full-Stack! 🚀</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/bb86d6b3-0996-4c12-bf37-6717f5f2ef5b" width="300" />
+    </td>
+  </tr>
+</table>
 
 <br clear="right"/>
 
@@ -77,4 +86,8 @@
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.i![ezgif-38b4dddc4858fee7](https://github.com/user-attachments/assets/bb86d6b3-0996-4c12-bf37-6717f5f2ef5b)
+n ) -->
+
+
+
