@@ -16,7 +16,7 @@
       </ul>
     </td>
     <td valign="top">
-      <img align="right" width="300" src="https://raw.githubusercontent.com/RS-Arafath/RS-Arafath/main/ezgif-3eb807a65841bd42.gif">
+      <img align="right" width="450" height="250px" src="https://raw.githubusercontent.com/RS-Arafath/RS-Arafath/main/ezgif-3eb807a65841bd42.gif">
     </td>
   </tr>
 </table>
