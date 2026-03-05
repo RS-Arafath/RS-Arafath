@@ -1,5 +1,9 @@
 # Hi there! 👋 I'm [Rs Arafath]
 ![Typing Effect](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&fontStyle=italic&pause=1000&color=36BCF7&size=24&width=500&lines=Aspiring+Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Web+Applications;Always+Learning+New+Tech)
+
+
+<img align="right" width="300" src="https://raw.githubusercontent.com/RS-Arafath/RS-Arafath/main/ezgif-3eb807a65841bd42.gif">
+
 ### 🚀 About Me
 - 🔭 **Working on:** Scalable web applications & real-world projects.
 - 🌱 **Learning:** React, Node.js & Database Management.
@@ -7,6 +11,8 @@
 - 🤝 **Need help with:** Advanced JS & Backend architecture.
 - 💬 **Ask me about:** HTML, CSS, JS & Frontend basics.
 - ⚡ **Fun fact:** Started with basic scripts, now aiming for Full-Stack! 🚀
+
+<br clear="right"/>
 
 
 ## 🌐 Socials:
