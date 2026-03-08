@@ -1,28 +1,14 @@
 # Hi there! 👋 I'm [Rs Arafath]
 ![Typing Effect](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&fontStyle=italic&pause=1000&color=36BCF7&size=24&width=500&lines=Aspiring+Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Web+Applications;Always+Learning+New+Tech)
 
+## 🚀 About Me
 
-<table border="0">
-  <tr>
-    <td>
-      <h3>🚀 About Me</h3>
-      <ul>
-        <li>🔭 <b>Working on:</b> Scalable web applications & real-world projects.</li>
-        <li>🌱 <b>Learning:</b> React, Node.js & Database Management.</li>
-        <li>👯 <b>Collaborations:</b> Beginner-friendly web & Open-source projects.</li>
-        <li>🤝 <b>Need help with:</b> Advanced JS & Backend architecture.</li>
-        <li>💬 <b>Ask me about:</b> HTML, CSS, JS & Frontend basics.</li>
-        <li>⚡ <b>Fun fact:</b> Started with basic scripts, now aiming for Full-Stack! 🚀</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <img align="right" width="300" height="250px" src="https://github.com/user-attachments/assets/fbcba660-5614-49a6-84f5-e51fcc3fa555">
-    </td>
-  </tr>
-</table>
-
-<br clear="right"/>
-
+🔭 **Working on:** Scalable web applications & real-world projects.  
+🌱 **Learning:** React, Node.js & Database Management.  
+👯 **Collaborations:** Beginner-friendly web & open-source projects.  
+🤝 **Need help with:** Advanced JavaScript & backend architecture.  
+💬 **Ask me about:** HTML, CSS, JavaScript & frontend basics.  
+⚡ **Fun fact:** Started with basic scripts, now aiming to become a Full-Stack Developer.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rsarafath.rsarafath/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rs-arafath-6347733b3/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/RS-Arafath-3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact.arafath.bd@gmail.com) 
