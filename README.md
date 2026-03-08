@@ -2,13 +2,14 @@
 ![Typing Effect](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&fontStyle=italic&pause=1000&color=36BCF7&size=24&width=500&lines=Aspiring+Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Web+Applications;Always+Learning+New+Tech)
 
 ## 🚀 About Me
-
-🔭 **Working on:** Scalable web applications & real-world projects.  
-🌱 **Learning:** React, Node.js & Database Management.  
-👯 **Collaborations:** Beginner-friendly web & open-source projects.  
-🤝 **Need help with:** Advanced JavaScript & backend architecture.  
-💬 **Ask me about:** HTML, CSS, JavaScript & frontend basics.  
-⚡ **Fun fact:** Started with basic scripts, now aiming to become a Full-Stack Developer.
+<p>
+🔭 <b>Working on:</b> Scalable web applications & real-world projects.<br>
+🌱 <b>Learning:</b> React, Node.js & Database Management.<br>
+👯 <b>Collaborations:</b> Beginner-friendly web & open-source projects.<br>
+🤝 <b>Need help with:</b> Advanced JavaScript & backend architecture.<br>
+💬 <b>Ask me about:</b> HTML, CSS, JavaScript & frontend basics.<br>
+⚡ <b>Fun fact:</b> Started with basic scripts, now aiming to become a Full-Stack Developer.
+<p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rsarafath.rsarafath/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rs-arafath-6347733b3/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/RS-Arafath-3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact.arafath.bd@gmail.com) 
@@ -63,9 +64,6 @@
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=RS-Arafath.RS-Arafath&style=flat-square&logo=github) -->
 
 
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RS-Arafath&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 
 
