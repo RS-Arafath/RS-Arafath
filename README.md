@@ -62,7 +62,41 @@
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=RS-Arafath.RS-Arafath&style=flat-square&logo=github) -->
 
 
+## 📊 GitHub Analytics
 
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RS-Arafath&show_icons=true&theme=tokyonight&hide_border=true" width="100%" height="220"/>
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RS-Arafath&layout=compact&theme=tokyonight&hide_border=true" width="100%" height="220"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<img src="https://streak-stats.demolab.com?user=RS-Arafath&theme=tokyonight&hide_border=true" width="100%" height="220"/>
+
+</td>
+
+<td width="50%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RS-Arafath&theme=tokyo-night&hide_border=true" width="500" height="220"/> 
+
+
+</td>
+</tr>
+</table>
+
+</div>
 
 
 
