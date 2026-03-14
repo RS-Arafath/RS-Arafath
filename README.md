@@ -44,19 +44,21 @@
 <img src="https://skillicons.dev/icons?i=figma,Canba" />
 </p>
 
+<!--
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RS-Arafath&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=RS-Arafath&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RS-Arafath&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+-->
 ## 👤 Profile Visitors
 <p align="left">
   <img src="https://count.getloli.com/get/@RS-Arafath?theme=moebooru" alt="Visitor Count" />
 </p>
 
+<!--
 ## 📈 Activity Graph
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RS-Arafath&theme=tokyo-night)](https://github.com/RS-Arafath)
-
+-->
 <!--
 ### visitor
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=RS-Arafath.RS-Arafath&style=flat-square&logo=github) -->
