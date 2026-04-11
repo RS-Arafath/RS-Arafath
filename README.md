@@ -1,3 +1,5 @@
+![arafath_github_cover (2)](https://github.com/user-attachments/assets/82838350-0cd1-4198-a19c-f883b4b33292)
+
 # Hi there! 👋 I'm [Rs Arafath]
 ![Typing Effect](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&fontStyle=italic&pause=1000&color=36BCF7&size=24&width=500&lines=Aspiring+Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Web+Applications;Always+Learning+New+Tech)
 
