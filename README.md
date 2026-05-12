@@ -23,7 +23,7 @@
 
 # 🛠️ Tech Stack
 
-### 🌐 Frontend
+### 🖥️ Frontend
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,flutter" />
 </p>
