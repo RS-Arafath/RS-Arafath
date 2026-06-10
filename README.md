@@ -76,7 +76,8 @@
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RS-Arafath&show_icons=true&theme=tokyonight&hide_border=true" width="100%" height="220"/>
+
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RS-Arafath&theme=github_dark" />
 
 </td>
 
@@ -106,13 +107,14 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RS-Arafath&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 </div>
 
 
 <div align="center">
-
 <svg width="600" height="80" viewBox="0 0 600 80">
   <path id="wavePath" d="M0,40 C100,10 200,70 300,40 C400,10 500,70 600,40" fill="transparent"/>
   
