@@ -2,7 +2,7 @@
 
 
 
-# Hi there! 👋 I'm [Rs Arafath]
+# Hi there! I'm Rs Arafath
 ![Typing Effect](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&fontStyle=italic&pause=1000&color=36BCF7&size=24&width=500&lines=Aspiring+Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Web+Applications;Always+Learning+New+Tech)
 
 ## About Me...
@@ -71,8 +71,11 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
+<p align="center" width="100%">
+  <img src="https://yourinsights.vercel.app/api/insight?username=RS-Arafath" alt="GitHub Insights" />
+</p>
 
-<table>
+<!-- <table>
 <tr>
 <td width="50%">
 
@@ -101,7 +104,7 @@
 
 </td>
 </tr>
-</table>
+</table> -->
 </div>
 <br>
 
